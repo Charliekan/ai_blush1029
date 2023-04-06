@@ -1,2 +1,4 @@
 # .gitignore
 ai_blush2/lib/python3.9/site-packages/
+ai_blush2/lib/
+
